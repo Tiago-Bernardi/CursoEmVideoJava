@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Java06Aula05OlaMundoJavaFX.jnlp">
+  <information>
+    <title>Java06Aula05OlaMundoJavaFX</title>
+    <vendor>PC</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Java06Aula05OlaMundoJavaFX.jar" size="2869" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="java06aula05olamundojavafx.Java06Aula05OlaMundoJavaFX"  name="Java06Aula05OlaMundoJavaFX" />
+  <update check="always"/>
+</jnlp>
